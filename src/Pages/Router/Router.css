@@ -1,0 +1,13 @@
+.sidebar {
+    position: relative; /* Ensure positioning context for the pseudo-element */
+}
+
+.sidebar::after {
+    content: '';
+    position: absolute;
+    top: 0;
+    right: -5px; /* Adjust this to control the gap between the sidebar and the border */
+    width: 2px; /* Width of the border */
+    height: 100%; /* Full height of the sidebar */
+    background: linear-gradient(to bottom, red, orange, yellow, green, blue, indigo, violet); /* Rainbow gradient */
+}
