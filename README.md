@@ -1,70 +1,48 @@
-# Getting Started with Create React App
+<h1 align="center">Hi, I'm Shayan 👋</h1>  
+<h3 align="center">Web Developer | Networking Expert | AI Enthusiast</h3>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+---
 
-## Available Scripts
+### 🚀 About Me  
+- 🎓 **BS Computer Engineering** (3rd Semester) at **UET Taxila**  
+- 💻 Web developer with expertise in **React, Next.js, Django, and MySQL**  
+- 🌐 Interested in **LLMs, Secure Web Apps, and Cloud Deployments**  
+- 🎯 Currently building a **highly secure LMS** and a **custom AI chatbot**  
+- 🛠️ **Working on a compact drone** for efficiency and performance  
 
-In the project directory, you can run:
+---
 
-### `npm start`
+### 💻 Tech Stack  
+- **Languages:** Python, Java, JavaScript, C++  
+- **Frontend:** React, Next.js, Bootstrap, Tailwind CSS, Chakra UI  
+- **Backend:** Django, Django Rest Framework, Spring Boot  
+- **Databases:** MySQL, PostgreSQL  
+- **DevOps & Cloud:** AWS, Docker, Nginx  
+- **AI & ML:** LLMs, NLP, Fine-Tuning Models  
+- **Other:** Networking, Cybersecurity, PLCs  
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+---
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+### 🔥 Featured Projects  
+- 🏫 **[Campus Connect](#)** – A social media platform for societies (React + Spring Boot)  
+- 🛡️ **[Secure LMS](#)** – Advanced Learning Management System (Next.js, Django, MySQL, AWS)  
+- 🤖 **[AI Chatbot](#)** – Custom chatbot with fine-tuned LLM (Python, TensorFlow)  
+- 🚁 **[Compact Drone](#)** – Researching efficient drone configurations  
 
-### `npm test`
+---
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### 📈 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shayan&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shayan&theme=radical" alt="GitHub Streak" />
+</p>
 
-### `npm run build`
+---
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### 📫 Connect with Me  
+- 💼 **LinkedIn:** [[linkedin.com/in/shayan](https://www.linkedin.com/in/shayan-humayun-7a8097326/)](#)  
+- 📧 **Email:** shanooo773@gmail.com  
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+---
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+⭐ **Feel free to check out my repositories and contribute!**  
