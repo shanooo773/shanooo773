@@ -32,10 +32,13 @@
 ---
 
 ### 📈 GitHub Stats  
-<p align="center">![Shayan's GitHub stats](https://github-readme-stats.vercel.app/api?username=shanooo773&show_icons=true&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shanooo773&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shanooo773&layout=compact&theme=radical)
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shanooo773&show_icons=true&theme=radical" alt="Shayan's GitHub stats" />
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shanooo773&theme=radical" alt="GitHub Streak" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shanooo773&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
