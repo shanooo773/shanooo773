@@ -1,32 +1,33 @@
 <h1 align="center">Hi, I'm Shayan 👋</h1>  
-<h3 align="center">Web Developer | Networking Expert | DevOps Enthusiast | AI Explorer</h3>
+<h3 align="center">Python Developer | Web Engineer | DevOps Enthusiast | AI Explorer</h3>
 
 ---
 
 ### 🚀 About Me  
 - 🎓 **BS Computer Engineering** (4th Semester) at **UET Taxila**  
-- 💻 Passionate about **Web Development, DevOps, and AI**  
-- 🖥️ Experienced in **React, Next.js, Django, and MySQL**  
+- 🐍 Strongly passionate about **Python development**  
+- 💻 Skilled in **Web Development, DevOps, and AI Integration**  
+- 🖥️ Experienced in **Python, Django, React, and MySQL**  
 - 🏗️ Building a **highly secure LMS** and a **custom AI chatbot**  
-- 🚀 Exploring **Kubernetes, Docker, and Cloud Automation**  
+- 🚀 Exploring **Kubernetes, Docker, and Python automation**  
 
 ---
 
 ### 🛠️ Tech Stack  
 #### **💻 Programming Languages**  
-Python | JavaScript | Java | C++  
+Python 🐍 | JavaScript | Java | C++  
 
 #### **🌐 Web Development**  
-React | Next.js | Django | MySQL | PostgreSQL  
+Django | React | Next.js | FastAPI | MySQL | PostgreSQL  
 
 #### **⚙️ DevOps & Cloud**  
-AWS | Docker | Kubernetes | Nginx | Linux System Administration  
+AWS | Docker | Kubernetes | Nginx | Linux System Administration | CI/CD  
 
 #### **🔐 Cybersecurity & Networking**  
-Kali Linux | Ethical Hacking | Network Protocols  
+Kali Linux | Ethical Hacking | Network Protocols | Firewall Configurations  
 
-#### **🤖 AI & ML**  
-LLMs | NLP | AI Chatbots | TensorFlow  
+#### **🤖 AI & ML (Python-Powered)**  
+LLMs | NLP | AI Chatbots | TensorFlow | Pandas | NumPy | Scikit-learn  
 
 ---
 
@@ -34,6 +35,7 @@ LLMs | NLP | AI Chatbots | TensorFlow
 🚀 **[Campus Connect](#)** – Social media platform for university societies (**React + Spring Boot**)  
 📚 **[Secure LMS](#)** – Scalable LMS with advanced security (**Next.js, Django, AWS**)  
 🤖 **[AI Chatbot](#)** – Custom chatbot with fine-tuned LLMs (**Python, TensorFlow**)  
+📊 **[Expense Manager](#)** – Track and analyze monthly expenses (**Python, MySQL**)  
 🚁 **[Compact Drone](#)** – Researching efficient drone configurations  
 
 ---
@@ -41,10 +43,8 @@ LLMs | NLP | AI Chatbots | TensorFlow
 ### 📊 GitHub Stats  
 
 <p align="center">
-  
   <img src="https://github-readme-stats.vercel.app/api?username=shanooo773&show_icons=true&theme=radical" alt="Shayan's GitHub stats" />
   <br>
-  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shanooo773&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
@@ -56,5 +56,4 @@ LLMs | NLP | AI Chatbots | TensorFlow
 
 ---
 
-⭐ **Feel free to check out my repositories and contribute!** 🚀
-
+⭐ **Explore my repositories and feel free to contribute or connect!** 🚀
