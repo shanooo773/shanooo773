@@ -41,8 +41,10 @@ LLMs | NLP | AI Chatbots | TensorFlow
 ### 📊 GitHub Stats  
 
 <p align="center">
+  
   <img src="https://github-readme-stats.vercel.app/api?username=shanooo773&show_icons=true&theme=radical" alt="Shayan's GitHub stats" />
   <br>
+  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shanooo773&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
