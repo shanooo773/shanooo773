@@ -108,42 +108,75 @@
         <em>Tech Stack: Django, PostgreSQL, Redis, Docker, AWS</em>
       </td>
       <td align="center" width="50%">
-        <h3>🤖 AI-Powered Educational Chatbot</h3>
+        <h3>🤖 AI-Powered Educational Chatbot & Analytics</h3>
         <img src="https://img.shields.io/badge/Status-Production-green?style=flat-square" alt="Status"/>
         <img src="https://img.shields.io/badge/Python-TensorFlow-orange?style=flat-square&logo=tensorflow" alt="TensorFlow"/>
         <br><br>
         <p>🧠 <strong>Custom LLM</strong> fine-tuned for educational content</p>
-        <p>📚 <strong>Natural Language Processing</strong> for student queries</p>
-        <p>📊 <strong>Analytics Integration</strong> to track learning patterns</p>
-        <p>⚡ <strong>Real-time</strong> responses with high accuracy</p>
+        <p>📚 <strong>NLP Analytics</strong> for student query patterns</p>
+        <p>📊 <strong>Learning Analytics</strong> dashboard with ML insights</p>
+        <p>⚡ <strong>Real-time Data</strong> processing & response optimization</p>
         <br>
-        <em>Tech Stack: Python, TensorFlow, HuggingFace, FastAPI</em>
+        <em>Tech Stack: Python, TensorFlow, HuggingFace, FastAPI, Analytics</em>
       </td>
     </tr>
     <tr>
       <td align="center" width="50%">
-        <h3>📊 Campus Connect Analytics</h3>
+        <h3>📊 Campus Connect Analytics Platform</h3>
         <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square" alt="Status"/>
-        <img src="https://img.shields.io/badge/React-Spring_Boot-blue?style=flat-square&logo=react" alt="React"/>
+        <img src="https://img.shields.io/badge/React-Analytics_Engine-blue?style=flat-square&logo=react" alt="React"/>
         <br><br>
-        <p>🌐 <strong>Social Platform</strong> for university societies</p>
-        <p>📈 <strong>Data Visualization</strong> for engagement metrics</p>
-        <p>🎯 <strong>User Behavior Analytics</strong> using Python</p>
-        <p>🔗 <strong>API Integration</strong> for seamless data flow</p>
+        <p>🌐 <strong>Social Platform</strong> with advanced analytics engine</p>
+        <p>📈 <strong>ML-Powered Insights</strong> for engagement prediction</p>
+        <p>🎯 <strong>Behavioral Analytics</strong> using Python & statistical models</p>
+        <p>🔗 <strong>Real-time Data</strong> processing & API analytics</p>
         <br>
-        <em>Tech Stack: React, Spring Boot, Python Analytics</em>
+        <em>Tech Stack: React, Spring Boot, Python Analytics, ML Pipeline</em>
       </td>
       <td align="center" width="50%">
-        <h3>💰 Smart Expense Analytics</h3>
+        <h3>💰 Smart Expense Analytics Suite</h3>
         <img src="https://img.shields.io/badge/Status-Complete-success?style=flat-square" alt="Status"/>
         <img src="https://img.shields.io/badge/Python-Data_Science-yellow?style=flat-square&logo=python" alt="Python"/>
         <br><br>
-        <p>📊 <strong>Machine Learning</strong> for expense prediction</p>
-        <p>📈 <strong>Data Visualization</strong> with interactive charts</p>
-        <p>🤖 <strong>Automated Categorization</strong> of transactions</p>
-        <p>📱 <strong>Dashboard</strong> for financial insights</p>
+        <p>📊 <strong>Advanced ML Models</strong> for expense prediction & anomaly detection</p>
+        <p>📈 <strong>Interactive Dashboards</strong> with real-time analytics</p>
+        <p>🤖 <strong>AI-Powered Categorization</strong> with 95%+ accuracy</p>
+        <p>💡 <strong>Predictive Insights</strong> for budget optimization</p>
         <br>
-        <em>Tech Stack: Python, Pandas, Matplotlib, Scikit-learn</em>
+        <em>Tech Stack: Python, Pandas, Scikit-learn, Plotly, Streamlit</em>
+      </td>
+    </tr>
+  </table>
+</div>  
+
+### 🐚 Data Science Shell & CLI Analytics Tools
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <h3>⚡ Python Data Analytics CLI Suite</h3>
+        <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square" alt="Status"/>
+        <img src="https://img.shields.io/badge/Shell-Python_CLI-darkgreen?style=flat-square&logo=gnubash" alt="Shell"/>
+        <br><br>
+        <p>🔧 <strong>Command-line Tools</strong> for rapid data analysis</p>
+        <p>📊 <strong>Automated Reports</strong> with statistical summaries</p>
+        <p>🚀 <strong>Batch Processing</strong> for large datasets</p>
+        <p>📈 <strong>Real-time Monitoring</strong> of data pipelines</p>
+        <br>
+        <em>Features: CSV/JSON analysis, Statistical modeling, Data cleaning</em>
+      </td>
+      <td align="center" width="50%">
+        <h3>🎯 Behavioral Analytics Shell Scripts</h3>
+        <img src="https://img.shields.io/badge/Status-Production-green?style=flat-square" alt="Status"/>
+        <img src="https://img.shields.io/badge/Bash-Analytics-blue?style=flat-square&logo=gnu-bash" alt="Bash"/>
+        <br><br>
+        <p>📊 <strong>User Behavior Analysis</strong> from server logs</p>
+        <p>🔍 <strong>Pattern Recognition</strong> in large log files</p>
+        <p>📈 <strong>Performance Metrics</strong> extraction & visualization</p>
+        <p>⚡ <strong>Automated Alerts</strong> for anomaly detection</p>
+        <br>
+        <em>Tools: Bash, AWK, SED, Python integration, Cron automation</em>
       </td>
     </tr>
   </table>
