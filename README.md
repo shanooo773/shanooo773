@@ -120,18 +120,6 @@
         <br>
         <em>Tech Stack: Python, TensorFlow, HuggingFace, FastAPI, Analytics</em>
       </td>
-      <td align="center" width="50%">
-        <h3>🎓 Secure Learning Management System</h3>
-        <img src="https://img.shields.io/badge/Status-In_Development-orange?style=flat-square" alt="Status"/>
-        <img src="https://img.shields.io/badge/Python-Django-blue?style=flat-square&logo=django" alt="Django"/>
-        <br><br>
-        <p>🚀 <strong>Advanced LMS Platform</strong> with cutting-edge security features</p>
-        <p>📊 <strong>Data Analytics Dashboard</strong> for student performance tracking</p>
-        <p>🤖 <strong>AI-Powered</strong> content recommendations and assessment tools</p>
-        <p>🔐 <strong>Enterprise-level</strong> security and scalability</p>
-        <br>
-        <em>Tech Stack: Django, PostgreSQL, Redis, Docker, AWS</em>
-      </td>
     </tr>
     <tr>
       <td align="center" width="50%">
@@ -146,7 +134,16 @@
         <br>
         <em>Tech Stack: React, Spring Boot, Python Analytics, ML Pipeline</em>
       </td>
-      
+      <td align="center" width="50%">
+        <h3>🎓 Secure Learning Management System</h3>
+        <img src="https://img.shields.io/badge/Status-In_Development-orange?style=flat-square" alt="Status"/>
+        <img src="https://img.shields.io/badge/Python-Django-blue?style=flat-square&logo=django" alt="Django"/>
+        <br><br>
+        <p>🚀 <strong>Advanced LMS Platform</strong> with cutting-edge security features</p>
+        <p>🔐 <strong>Wordpress</strong> security and scalability</p>
+        <br>
+        <em>Tech Stack: Wordpress,Elementor</em>
+      </td>
     </tr>
   </table>
 </div>  
