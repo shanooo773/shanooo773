@@ -21,16 +21,17 @@
 
 🎓 **BS Computer Engineering** (4th Semester) at **UET Taxila**  
 🐍 **Python & Data Science Enthusiast** with deep expertise in analytics and ML  
-📚 **Learning Management Systems (LMS) Developer** - Building secure, scalable educational platforms  
-💻 **Full-Stack Web Developer** specializing in modern web technologies  
 🤖 **AI Integration Specialist** - Creating intelligent solutions with Python  
 📊 **Data Analytics Expert** - Transforming data into actionable insights  
+📚 **Learning Management Systems (LMS) Developer** - Building secure, scalable educational platforms  
+💻 **Full-Stack Web Developer** specializing in modern web technologies  
+
 
 ### 🌟 Current Focus
-- 🏗️ Building a **highly secure LMS platform** with advanced features
-- 🤖 Developing **custom AI chatbots** for educational applications  
 - 📊 Creating **data science projects** using Python ecosystem
 - 🚀 Exploring **MLOps and Python automation** for scalable solutions
+- 🤖 Developing **custom AI chatbots** for educational applications  
+
 
 ---
 
@@ -96,16 +97,16 @@
   <table>
     <tr>
       <td align="center" width="50%">
-        <h3>🎓 Secure Learning Management System</h3>
-        <img src="https://img.shields.io/badge/Status-In_Development-orange?style=flat-square" alt="Status"/>
-        <img src="https://img.shields.io/badge/Python-Django-blue?style=flat-square&logo=django" alt="Django"/>
+        <h3>💰 Smart Expense Analytics Suite</h3>
+        <img src="https://img.shields.io/badge/Status-Complete-success?style=flat-square" alt="Status"/>
+        <img src="https://img.shields.io/badge/Python-Data_Science-yellow?style=flat-square&logo=python" alt="Python"/>
         <br><br>
-        <p>🚀 <strong>Advanced LMS Platform</strong> with cutting-edge security features</p>
-        <p>📊 <strong>Data Analytics Dashboard</strong> for student performance tracking</p>
-        <p>🤖 <strong>AI-Powered</strong> content recommendations and assessment tools</p>
-        <p>🔐 <strong>Enterprise-level</strong> security and scalability</p>
+        <p>📊 <strong>Advanced ML Models</strong> for expense prediction & anomaly detection</p>
+        <p>📈 <strong>Interactive Dashboards</strong> with real-time analytics</p>
+        <p>🤖 <strong>AI-Powered Categorization</strong> with 95%+ accuracy</p>
+        <p>💡 <strong>Predictive Insights</strong> for budget optimization</p>
         <br>
-        <em>Tech Stack: Django, PostgreSQL, Redis, Docker, AWS</em>
+        <em>Tech Stack: Python, Pandas, Scikit-learn, Plotly, Streamlit</em>
       </td>
       <td align="center" width="50%">
         <h3>🤖 AI-Powered Educational Chatbot & Analytics</h3>
@@ -118,6 +119,18 @@
         <p>⚡ <strong>Real-time Data</strong> processing & response optimization</p>
         <br>
         <em>Tech Stack: Python, TensorFlow, HuggingFace, FastAPI, Analytics</em>
+      </td>
+      <td align="center" width="50%">
+        <h3>🎓 Secure Learning Management System</h3>
+        <img src="https://img.shields.io/badge/Status-In_Development-orange?style=flat-square" alt="Status"/>
+        <img src="https://img.shields.io/badge/Python-Django-blue?style=flat-square&logo=django" alt="Django"/>
+        <br><br>
+        <p>🚀 <strong>Advanced LMS Platform</strong> with cutting-edge security features</p>
+        <p>📊 <strong>Data Analytics Dashboard</strong> for student performance tracking</p>
+        <p>🤖 <strong>AI-Powered</strong> content recommendations and assessment tools</p>
+        <p>🔐 <strong>Enterprise-level</strong> security and scalability</p>
+        <br>
+        <em>Tech Stack: Django, PostgreSQL, Redis, Docker, AWS</em>
       </td>
     </tr>
     <tr>
@@ -133,18 +146,7 @@
         <br>
         <em>Tech Stack: React, Spring Boot, Python Analytics, ML Pipeline</em>
       </td>
-      <td align="center" width="50%">
-        <h3>💰 Smart Expense Analytics Suite</h3>
-        <img src="https://img.shields.io/badge/Status-Complete-success?style=flat-square" alt="Status"/>
-        <img src="https://img.shields.io/badge/Python-Data_Science-yellow?style=flat-square&logo=python" alt="Python"/>
-        <br><br>
-        <p>📊 <strong>Advanced ML Models</strong> for expense prediction & anomaly detection</p>
-        <p>📈 <strong>Interactive Dashboards</strong> with real-time analytics</p>
-        <p>🤖 <strong>AI-Powered Categorization</strong> with 95%+ accuracy</p>
-        <p>💡 <strong>Predictive Insights</strong> for budget optimization</p>
-        <br>
-        <em>Tech Stack: Python, Pandas, Scikit-learn, Plotly, Streamlit</em>
-      </td>
+      
     </tr>
   </table>
 </div>  
@@ -254,7 +256,6 @@ class ShayanSkills:
             "Python": "Expert",
             "Data Analysis": "Advanced", 
             "Web Development": "Advanced",
-            "LMS Platforms": "Specialist",
             "Machine Learning": "Intermediate+"
         }
     
