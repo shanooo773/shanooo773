@@ -19,7 +19,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-🎓 **BS Computer Engineering** (5th Semester) at **UET Taxila**  
+🎓 **BS Computer Engineering** (6th Semester) at **UET Taxila**  
 🐍 **Python & Data Science Enthusiast** with deep expertise in analytics and ML  
 🤖 **AI Integration Specialist** - Creating intelligent solutions with Python  
 📊 **Data Analytics Expert** - Transforming data into actionable insights  
