@@ -1,10 +1,11 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3776AB&center=true&vCenter=true&width=800&lines=Hi+there%2C+I'm+Shayan+%F0%9F%91%8B;Python+%26+Data+Science+Expert;Learning+Management+Systems+Developer;Full-Stack+Web+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3776AB&center=true&vCenter=true&width=800&lines=Hi+there%2C+I'm+Shayan+%F0%9F%91%8B;Python+%26+Data+Science+Expert;Robotics+Software+Engineer;Learning+Management+Systems+Developer;Full-Stack+Web+Developer" alt="Typing SVG" />
 </div>
 
 <h3 align="center">
   <img src="https://img.shields.io/badge/Python-Expert-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Expert"/>
   <img src="https://img.shields.io/badge/Data_Science-Specialist-FF6F00?style=for-the-badge&logo=databricks&logoColor=white" alt="Data Science"/>
+  <img src="https://img.shields.io/badge/ROS2-Robotics-22314E?style=for-the-badge&logo=ros&logoColor=white" alt="ROS2 Robotics"/>
   <img src="https://img.shields.io/badge/LMS-Developer-4CAF50?style=for-the-badge&logo=moodle&logoColor=white" alt="LMS Developer"/>
 </h3>
 
@@ -21,16 +22,18 @@
 
 🎓 **BS Computer Engineering** (6th Semester) at **UET Taxila**  
 🐍 **Python & Data Science Enthusiast** with deep expertise in analytics and ML  
-🤖 **AI Integration Specialist** - Creating intelligent solutions with Python  
+🤖 **Robotics Software Engineer** - Building reliable robotic systems with ROS/ROS2 and C++  
+🦾 **AI Integration Specialist** - Creating intelligent solutions with Python  
 📊 **Data Analytics Expert** - Transforming data into actionable insights  
 📚 **Learning Management Systems (LMS) Developer** - Building secure, scalable educational platforms  
 💻 **Full-Stack Web Developer** specializing in modern web technologies  
 
 
 ### 🌟 Current Focus
-- 📊 Creating **data science projects** using Python ecosystem
-- 🚀 Exploring **MLOps and Python automation** for scalable solutions
-- 🤖 Developing **custom AI chatbots** for educational applications  
+- 🤖 Developing **robotics software** using ROS/ROS2, C++, and Python on Linux/Ubuntu  
+- 🔧 Working on the **TDF project** — a practical robotics software system integrating CMake, Docker, and Git workflows  
+- 📊 Creating **data science projects** using the Python ecosystem  
+- 🚀 Exploring **MLOps and Python automation** for scalable solutions  
 
 
 ---
@@ -81,7 +84,18 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
 </p>
 
-### 🤖 **AI & Machine Learning**
+### 🤖 **Robotics & Systems**
+<p align="left">
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white" alt="ROS"/>
+  <img src="https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white" alt="ROS2"/>
+  <img src="https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white" alt="CMake"/>
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu"/>
+</p>
+
+### 🧠 **AI & Machine Learning**
 <p align="left">
   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI"/>
   <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/>
@@ -143,6 +157,22 @@
         <p>🔐 <strong>Wordpress</strong> security and scalability</p>
         <br>
         <em>Tech Stack: Wordpress,Elementor</em>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="50%" colspan="2">
+        <h3>🦾 TDF — Robotics Software Project</h3>
+        <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square" alt="Status"/>
+        <img src="https://img.shields.io/badge/ROS2-C++-22314E?style=flat-square&logo=ros" alt="ROS2"/>
+        <img src="https://img.shields.io/badge/Python-CMake-3776AB?style=flat-square&logo=python" alt="Python"/>
+        <br><br>
+        <p>🤖 <strong>Core Robotics Software</strong> — modular architecture for robot control and system integration</p>
+        <p>🔧 <strong>ROS/ROS2 Nodes</strong> for sensor fusion, actuation, and inter-process communication</p>
+        <p>🐧 <strong>Linux/Ubuntu Environment</strong> with CMake build system and Docker containerization</p>
+        <p>🔗 <strong>Git / GitHub Workflows</strong> for collaborative development and CI-friendly practices</p>
+        <p>⚡ <strong>Bash Scripting</strong> for automation, environment setup, and deployment pipelines</p>
+        <br>
+        <em>Tech Stack: Python, C++, ROS/ROS2, CMake, Docker, Bash, Git, Linux/Ubuntu</em>
       </td>
     </tr>
   </table>
@@ -235,6 +265,16 @@
         <p>• Scalable architecture</p>
       </td>
     </tr>
+    <tr>
+      <td align="center" width="33%" colspan="3">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="80" height="80"/>
+        <h3>🤖 Robotics Engineering</h3>
+        <p>• ROS / ROS2 development</p>
+        <p>• C++ robot software & system integration</p>
+        <p>• CMake build system & Docker workflows</p>
+        <p>• Linux/Ubuntu, Bash scripting & Git version control</p>
+      </td>
+    </tr>
   </table>
 </div>
 
@@ -247,20 +287,23 @@
 ```python
 class ShayanSkills:
     def __init__(self):
-        self.primary_focus = ["Python", "Data Science", "LMS Development"]
-        self.current_learning = ["MLOps", "Advanced AI", "Cloud Architecture"]
+        self.primary_focus = ["Python", "Robotics Software", "Data Science", "LMS Development"]
+        self.current_learning = ["ROS2", "MLOps", "Advanced AI", "Cloud Architecture"]
         self.expertise_level = {
             "Python": "Expert",
-            "Data Analysis": "Advanced", 
+            "C++": "Intermediate+",
+            "ROS / ROS2": "Intermediate+",
+            "Data Analysis": "Advanced",
             "Web Development": "Advanced",
             "Machine Learning": "Intermediate+"
         }
+        self.robotics_tools = ["ROS/ROS2", "CMake", "Docker", "Bash", "Git", "Linux/Ubuntu"]
     
     def get_passion_project(self):
-        return "Building AI-powered educational tools that make learning accessible"
+        return "Building reliable robotics software and AI-powered educational tools"
         
     def get_goal(self):
-        return "Revolutionizing education through technology and data science"
+        return "Advancing robotics engineering while revolutionizing education through technology"
 
 # Initializing my professional journey
 shayan = ShayanSkills()
@@ -287,6 +330,7 @@ print(shayan.get_passion_project())
 
 <div align="center">
   <h3>💡 Open to collaborations in:</h3>
+  <p>🔹 Robotics Software Engineering (ROS/ROS2, C++, Python)</p>
   <p>🔹 Python & Data Science Projects</p>
   <p>🔹 Educational Technology Solutions</p>
   <p>🔹 AI-Powered Learning Platforms</p>
